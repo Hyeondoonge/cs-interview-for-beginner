@@ -6,4 +6,8 @@
 
 <!-- 아래 내용은 예시이니, 지우고 작성해주세요. -->
 
-[1. 첫 번째 주제](https://github.com/Hyeondoonge/cs-interview-for-beginner)
+[1. 프로세스와 스레드](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/operating-system/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+
+[2. 멀티 프로세스와 멀티 스레드](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/operating-system/%EB%A9%80%ED%8B%B0%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EB%A9%80%ED%8B%B0%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+
+[3. PCB와 Context Switching](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/operating-system/PCB%EC%99%80%20Context%20Switching.md)
