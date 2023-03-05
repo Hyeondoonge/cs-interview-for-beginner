@@ -13,3 +13,9 @@
 [5. CPU 스케줄링 알고리즘](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/operating-system/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 
 [6. 시스템 콜](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/operating-system/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C.md)
+
+[7. 인터럽트](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/sup/operating-system/%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)
+
+[8. IPC](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/sup/operating-system/IPC.md)
+
+[9. 데드락](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/sup/operating-system/%EB%8D%B0%EB%93%9C%EB%9D%BD.md)
