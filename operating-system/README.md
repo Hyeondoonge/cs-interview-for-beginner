@@ -19,3 +19,9 @@
 [8. IPC](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/sup/operating-system/IPC.md)
 
 [9. 데드락](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/sup/operating-system/%EB%8D%B0%EB%93%9C%EB%9D%BD.md)
+
+[10. 메모리](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/operating-system/%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
+
+[11. 페이징과 세그멘테이션](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/operating-system/%ED%8E%98%EC%9D%B4%EC%A7%95%EA%B3%BC%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98.md)
+
+[12. 페이지 교체 알고리즘](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/operating-system/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
