@@ -20,7 +20,7 @@
 
 [9. 경쟁상태](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/operating-system/%EA%B2%BD%EC%9F%81%EC%83%81%ED%83%9C.md)
 
-[10. 스핀락, 뮤텍스, 세마포어] (https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/operating-system/%EC%8A%A4%ED%95%80%EB%9D%BD%2C%20%EB%AE%A4%ED%85%8D%EC%8A%A4%2C%20%EC%84%B8%EB%A7%88%ED%8F%AC.md)
+[10. 스핀락, 뮤텍스, 세마포어](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/operating-system/%EC%8A%A4%ED%95%80%EB%9D%BD%2C%20%EB%AE%A4%ED%85%8D%EC%8A%A4%2C%20%EC%84%B8%EB%A7%88%ED%8F%AC.md)
 
 [11. 데드락](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/sup/operating-system/%EB%8D%B0%EB%93%9C%EB%9D%BD.md)
 
