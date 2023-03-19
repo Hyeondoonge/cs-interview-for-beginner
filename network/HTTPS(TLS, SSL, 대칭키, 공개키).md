@@ -59,7 +59,8 @@
 - HTTPS에서 사용
 - SSL/TLS handshake 과정
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ff7a819-d816-4abd-bdf9-e37711591c72/Untitled.png)
+![image](https://user-images.githubusercontent.com/77667212/226186177-a76ca44b-e579-4c2e-a23b-ae9be9c0b424.png)
+
 
 1. 클라이언트가 서버에 “Client Hello” 를 보냄
     - 클라이언트 측에서 생성한 랜덤 데이터
