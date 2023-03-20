@@ -12,4 +12,6 @@
 
 [5. UDP](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/network/UDP.md)
 
-[7. HTTPS(TLS, SSL, 대칭키, 공개키)](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/network/HTTPS(TLS%2C%20SSL%2C%20%EB%8C%80%EC%B9%AD%ED%82%A4%2C%20%EA%B3%B5%EA%B0%9C%ED%82%A4).md)
+[6. HTTP(1.0, 1.1, 2, 3)](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/network/HTTP.md)
+
+[7. HTTPS(TLS, SSL, 대칭키, 공개키)](<https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/network/HTTPS(TLS%2C%20SSL%2C%20%EB%8C%80%EC%B9%AD%ED%82%A4%2C%20%EA%B3%B5%EA%B0%9C%ED%82%A4).md>)
