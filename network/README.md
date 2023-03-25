@@ -21,3 +21,7 @@
 [11. DHCP](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/network/DHCP.md)
 
 [12. www.google.com을 주소창에 입력했을때 발생하는 일](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/network/www.google.com%EC%9D%84%20%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20%EC%9E%85%EB%A0%A5%ED%96%88%EC%9D%84%20%EB%95%8C%20%EC%83%9D%EA%B8%B0%EB%8A%94%20%EC%9D%BC.md)
+
+[13. DNS](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/network/DNS.md)
+
+[14. OAuth](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/network/OAuth.md)
