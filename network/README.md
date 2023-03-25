@@ -17,3 +17,7 @@
 [7. HTTPS(TLS, SSL, 대칭키, 공개키)](<https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/network/HTTPS(TLS%2C%20SSL%2C%20%EB%8C%80%EC%B9%AD%ED%82%A4%2C%20%EA%B3%B5%EA%B0%9C%ED%82%A4).md>)
 
 [8. Load Balancing](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/network/Load%20Balancing.md)
+
+[11. DHCP](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/network/DHCP.md)
+
+[12. www.google.com을 주소창에 입력했을때 발생하는 일](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/network/www.google.com%EC%9D%84%20%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20%EC%9E%85%EB%A0%A5%ED%96%88%EC%9D%84%20%EB%95%8C%20%EC%83%9D%EA%B8%B0%EB%8A%94%20%EC%9D%BC.md)
