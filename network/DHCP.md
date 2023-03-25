@@ -36,13 +36,13 @@ DHCP 서버에 의존되기 때문에 서버가 다운되면 IP 할당이 제대
 
 
 1. DHCP Discover
-  - 먼저 장치가 네트워크에 연결되면 브로드캐스트 DHCP Discover 메시지를 보내 사용 가능한 DHCP 서버를 검색
+    - 먼저 장치가 네트워크에 연결되면 브로드캐스트 DHCP Discover 메시지를 보내 사용 가능한 DHCP 서버를 검색
 2. DHCP OFFER
-  - DHCP 서버는 Discover 메시지를 수신하고, 사용 가능한 IP 주소 및 기타 네트워크 설정을 포함한 DHCP OFFER 메시지로 응답 
+    - DHCP 서버는 Discover 메시지를 수신하고, 사용 가능한 IP 주소 및 기타 네트워크 설정을 포함한 DHCP OFFER 메시지로 응답 
 3. DHCP Request
-  - 장치는 제안 메시지를 수신하고 제안된 IP 주소 중 하나를 선택하고 DHCP 서버에 선택한 IP 주소를 할당받기 위해 DHCP Request 메시지를 보냄
+    - 장치는 제안 메시지를 수신하고 제안된 IP 주소 중 하나를 선택하고 DHCP 서버에 선택한 IP 주소를 할당받기 위해 DHCP Request 메시지를 보냄
 4. DHCP Ack
-  - DHCP 서버는 해당 요청 메시지를 수신하고 IP주소 및 기타 설정들의 할당을 확인하는 DHCP 승인 메시지로 응답
+    - DHCP 서버는 해당 요청 메시지를 수신하고 IP주소 및 기타 설정들의 할당을 확인하는 DHCP 승인 메시지로 응답
 5. DHCP는 할당된 IP주소, 서브넷 마스크, 게이트웨이 및 DNS 서버를 포함하여 네트워크 설정을 구성 
 
 Reference
