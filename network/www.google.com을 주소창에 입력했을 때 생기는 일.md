@@ -1,8 +1,8 @@
 1. 사용자가 브라우저에 **[http://www.google.com](http://www.google.xn--com-of0o/)** 을 입력합니다.
 2. 브라우저는 로컬 DNS 캐시를 검색하여 입력된 도메인명인 **[www.google.com](http://www.google.xn--com-568n/)** 에 해당하는 IP 주소를 찾습니다. 만약 캐시에서 찾을 수 없다면, 브라우저는 인터넷에 연결된 DNS 서버에 **[www.google.com](http://www.google.com/)** 도메인명에 해당하는 IP 주소를 요청합니다.
 3. DNS 서버는 **[www.google.com](http://www.google.com/)** 도메인명에 해당하는 IP 주소를 응답합니다.
-    - ISP(ex. SK 브로드밴드, KT...)를 통해 DNS서버가 호스팅하고 있는 서버의 IP주소를 찾기 위해DNS query를 전달합니다.
-    - DNS query는현재 DNS서버에 원하는 IP주소가 존재하지 않으면다른 DNS 서버를 방문하는 과정을원하는 IP주소를 찾을 때까지 반복합니다.
+    - ISP(ex. SK 브로드밴드, KT...)를 통해 DNS서버가 호스팅하고 있는 서버의 IP주소를 찾기 위해 DNS query를 전달합니다.
+    - DNS query는현재 DNS서버에 원하는 IP주소가 존재하지 않으면다른 DNS 서버를 방문하는 과정을 원하는 IP주소를 찾을 때까지 반복합니다.
     - DNS 쿼리는 응용 계층에서 실행되고, DNS 리졸버가 IP 주소를 반환 받은 후, 반환 된 IP 주소는 전송 계층에서 처리됩니다.
     - iterative 쿼리 : local DNS server가 계속해서 root DNS server, TLD DNS server등 여러 서버와 최종 IP 주소를 받을 때까지 요청 &응답을 계속해서 local name server가 반복하는 방법
     - recursive 쿼리 : local DNS server에서 root DNS server에 query를 보내고 root DNS server에서 계층적으로 다른 서버에 요청해서 최종 IP를 찾는 방법
