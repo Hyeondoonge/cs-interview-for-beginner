@@ -2,4 +2,6 @@
 
 <!-- 아래 내용은 예시이니, 지우고 작성해주세요. -->
 
-[1. 첫 번째 주제](https://github.com/Hyeondoonge/cs-interview-for-beginner)
+[1. 키(key)](<https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/database/%ED%82%A4(key).md>)
+
+[2. 조인(join)](<https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/database/%EC%A1%B0%EC%9D%B8(join).md>)
