@@ -11,3 +11,5 @@
 [4. SQL vs NoSQL](<https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/database/SQL%20vs%20NoSQL.md>)
 
 [5. 이상(anomaly)](<https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/database/%EC%9D%B4%EC%83%81(Anomaly).md>)
+
+[6. 쿼리의 종류(DDL, DML, DCL)](<https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/database/%EC%BF%BC%EB%A6%AC%20%EC%A2%85%EB%A5%98(DDL%2C%20DML%2C%20DCL).md>)
