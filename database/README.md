@@ -18,4 +18,4 @@
 
 [9. 트랜잭션](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 
-[10. 트랜잭션 격리](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EA%B2%A9%EB%A6%AC%ED%98%84%EC%83%81.md)
+[10. 트랜잭션 격리수준 ](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EA%B2%A9%EB%A6%AC%ED%98%84%EC%83%81.md)
