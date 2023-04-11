@@ -25,3 +25,7 @@
 [11. Entity, Relation](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/database/Entity%2C%20Relation.md)
 
 [12. Redis](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/database/Redis.md)
+
+[13. 저장 프로시저](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/database/Stored%20Procedure.md)
+
+[14. CAP 이론](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/database/CAP%20%EC%9D%B4%EB%A1%A0.md)
