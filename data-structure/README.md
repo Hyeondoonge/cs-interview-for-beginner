@@ -4,3 +4,5 @@
 [1. 배열, 연결리스트](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Array%2C%20LinkedList.md)
 
 [2. Array, ArrayList, LinkedList](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Array%2C%20ArrayList%2C%20LinkedList.md)
+
+[3. stack, queue, deque](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/stack%2C%20queue.md)
