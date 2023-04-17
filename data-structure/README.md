@@ -6,3 +6,9 @@
 [2. Array, ArrayList, LinkedList](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Array%2C%20ArrayList%2C%20LinkedList.md)
 
 [3. stack, queue, deque](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/stack%2C%20queue.md)
+
+[4. Heap](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Heap.md)
+
+[5. Tree](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Tree.md)
+
+[6. BST](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/BST.md)
