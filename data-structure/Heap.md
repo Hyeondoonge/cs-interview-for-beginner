@@ -26,7 +26,8 @@
 - 최대 힙 (max heap) : 부모 노드의 키 값이 자식 노드의 키 값보다 크거나 같은 완전 이진 트리
 - 최소 힙 (min heap) : 부모 노드의 키 값이 자식 노드의 키 값보다 작거나 같은 완전 이진 트리
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fefad4df-fc88-489b-ad63-7a9cf458c2e6/Untitled.png)
+![image](https://user-images.githubusercontent.com/77667212/232402588-0daf3f8b-dc1f-4ee7-b96a-e07df72ca46d.png)
+
 
 ### 구현
 
