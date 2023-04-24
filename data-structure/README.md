@@ -22,7 +22,9 @@
 
 [10. Red-Black Tree](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Red-Black%20tree.md)
 
-[11. Array, LinkedList, Set, Map](https://github.com/Hyeondoonge/cs-interview-for-beginner/tree/main/data-structure)
+[11. Array, LinkedList, Set, Map](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/11.%20Array%2C%20LinkedList%2C%20Set%2C%20Map.md)
+
+[12. Trie](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Trie.md)
 
 [13. Hash table](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Hash%20table.md)
 
