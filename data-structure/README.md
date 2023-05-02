@@ -29,11 +29,13 @@
 [13. Hash table](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Hash%20table.md)
 
 [14. Bubble Sort](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Bubble%20Sort.md)
-<!-- 15 -->
+
+[15. Selection Sort](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Selection%20Sort.md)
 
 [16. Insertion Sort](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Insertion%20sort.md)
 
 [17. Quick Sort](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Quick%20Sort.md)
-<!-- 18 -->
+
+[18. Merge Sort](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Merge%20Sort.md)
 
 [19. Heap Sort](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Heap%20sort.md)
