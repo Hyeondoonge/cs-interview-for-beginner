@@ -52,7 +52,7 @@ public static int[] bubbleSort(int[] arr){
 - 최악, 최선, 평균 모두 O(N^2)으로 비효율적
 - 정렬 돼있지 않은 원소가 정렬 됐을 때, Swap 연산이 많이 일어남
 
-### Stable Sort (안정 정렬) 와 Unstable Sort (불안정 정렬)
+## Stable Sort (안정 정렬) 와 Unstable Sort (불안정 정렬)
 
 Stable Sort의 경우 같은 숫자라도 상대적인 위치가 유지되는 정렬
 
