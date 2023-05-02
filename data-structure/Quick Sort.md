@@ -14,14 +14,16 @@
 3. 분할된 두 개의 작은 배열에 대해 재귀적으로 반복  
 
 ```java
-		public static int[] sort(int[] arr){
+
+  public static int[] sort(int[] arr){
 
         sort(arr,0,arr.length-1);
 
         return arr;
     }
 
-	   public static void sort(int[] arr, int start, int end){ // 처음과 끝을 기준으로 정렬
+   public static void sort(int[] arr, int start, int end){ // 처음과 끝을 기준으로 정렬
+	   
         int partitionIndex=partition(arr,start,end); // 피봇 설정 
 
         if(start<partitionIndex-1){
