@@ -39,3 +39,7 @@
 [18. Merge Sort](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Merge%20Sort.md)
 
 [19. Heap Sort](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Heap%20sort.md)
+
+[20. Radix Sort](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Radix%20sort.md)
+
+[21. Counting Sort](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Counting%20sort.md)
