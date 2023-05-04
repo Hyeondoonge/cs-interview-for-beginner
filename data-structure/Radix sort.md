@@ -18,7 +18,7 @@
 
 ### 동작방식
 
-![](https://www.researchgate.net/publication/291086231/figure/fig1/AS:614214452404240@1523451545568/Simplistic-illustration-of-the-steps-performed-in-a-radix-sort-In-this-example-the.png)
+![radix sort](https://www.researchgate.net/publication/291086231/figure/fig1/AS:614214452404240@1523451545568/Simplistic-illustration-of-the-steps-performed-in-a-radix-sort-In-this-example-the.png)
 
 10진수인 원소들로 구성된 배열을 LSD 기수정렬한다고 가정한다.
 
