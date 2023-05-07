@@ -43,3 +43,7 @@
 [20. Radix Sort](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Radix%20sort.md)
 
 [21. Counting Sort](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/Counting%20sort.md)
+
+[22. DFS, BFS](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/DFS%2C%20BFS.md)
+
+[23. MST](https://github.com/Hyeondoonge/cs-interview-for-beginner/blob/main/data-structure/MST.md)
